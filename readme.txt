@@ -30,7 +30,7 @@ Now go to admin panel from <strong>Dashboard > Settings > JP Important Days Ribb
 
 == Screenshots ==
 
-1. Screenshot-1.
+1. screenshot-1
 
 == Changelog ==
 1.1 screenshot added
